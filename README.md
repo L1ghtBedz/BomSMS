@@ -6,4 +6,5 @@ I Make this Just For Fun
 <p>Bedz@XynRyu ~ $ chmod +x bomz.sh</p>
 <p>Bedz@XynRyu ~ $ ./bomz.sh</p>
 <h3>How to get TxnID Codashop</h3>
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.471%;"><iframe src="https://streamable.com/s/b2cu3/ucerqa" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<p>I uploaded how to get the TxnID, click link below</p>
+<p><a href="https://streamable.com/b2cu3">Click Here</p></a>
