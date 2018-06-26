@@ -1,6 +1,6 @@
 while true;
 do
-cat << "CREDIT"
+cat << "Buka"
 
 ██████╗ ███████╗██████╗ ███████╗███████╗████████╗ ██████╗ ██╗  ██╗
 ██╔══██╗██╔════╝██╔══██╗╚══███╔╝██╔════╝╚══██╔══╝██╔═████╗██║  ██║
@@ -12,7 +12,8 @@ cat << "CREDIT"
 
 [1]. JD.ID
 [2]. CodaShop
-CREDIT
+[0]. About
+Buka
 
 echo -ne 'Pilih : ';read numb;
 echo '';
@@ -52,6 +53,19 @@ echo '';
 	fi
 	sleep 1
 	done
+	
+	elif [[ ${numb} == '0' ]]; then
+		echo "====================================="
+		echo "# Name : BomSMS"
+		echo "# Made by : Indonesian Code Party"
+		echo "Thanks to :"
+		echo "-IndoXploit"
+		echo "-ZeroByte.ID"
+		echo "-JavCode"
+		echo "-Sanjungan Jiwa"
+		echo "-LAmongan Xploiter"
+		echo "BedzNS & Et04"
+		echo "====================================="
 	else
 		echo '[-] Gblk Sia!'
 	fi
